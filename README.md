@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaggTechRnD
 - 👀 I’m interested in exercise, technology, cognition, engineering, design, martial arts, data analysis...
-- 🌱 I’m currently learning R, Python, JavaScript
+- 🌱 I mostly work with data and programming using R, but I am currently learning Python, JavaScript and 
 - 💞️ I’m looking to collaborate on (nothing at the moment, but watch this space)
 - 📫 How to reach me (uploading better contact details soon)
 
