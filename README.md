@@ -6,18 +6,18 @@
 
 ## About Me
 
-I'm a Senior Research Specialist with a passion for making data accessible, actionable, and impactful. My journey started in exercise science and health data, culminating in a PhD in neuro-cognitive Kinesiology from the University of Illinois, Urbana-Champaign. I thrive at the intersection of research, technology, and human well-being.
+I'm a Senior Research Specialist with a passion for making data accessible, actionable, and impactful. My journey started in exercise science and health data, leading to a PhD in neuro-cognitive Kinesiology from the University of Illinois, Urbana-Champaign. I thrive at the intersection of research, technology, and human well-being.
 
-Currently, I manage data for the [Gateway to Global Aging Project](https://www.gateway-aging.org/) as part of the Environmental Exposome team at the University of Michigan.
+Currently, I manage data for the [Gateway to Global Aging Project](https://exposome.g2aging.org/) as part of the Environmental Exposome team at the University of Michigan.
 
 ---
 
 ## 🧠 Expertise
 
-- **Health Data & Exercise Science**
+- **Health Data & Exercise Science** (7+ years, R: tidyverse)
 - **Geospatial Data Analysis** (2+ years, R: terra, data.table)
-- **Time Series & Financial Data**
-- **Educational Technology & Apps**
+- **Time Series & Financial Data** (QuantMod & tidyquant)
+- **Educational Technology & Apps** (RShiny, FlexDashboard, Blackboard, Canvas)
 
 ---
 
@@ -58,7 +58,6 @@ University of Michigan
 ## 🔗 Featured Projects
 
 - [TaggTechRnD.github.io](https://github.com/TaggTechRnD/TaggTechRnD.github.io) — My personal website & portfolio
-- [TaggTechRnD](https://github.com/TaggTechRnD/TaggTechRnD) — Scripts, tools, and data projects
 
 ---
 
