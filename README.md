@@ -23,13 +23,13 @@ Currently, I manage data for the [Gateway to Global Aging Project](https://www.g
 
 ## 💻 Technical Skills
 
-- **Languages:** R (primary), Python, JavaScript, SQL
+- **Languages:** R (5+ years), Python (2 years), JavaScript (1 year), SQL (1 year)
 - **R Packages:** terra, data.table, tidyverse, shiny, leaflet
 - **App Development:** Building user-friendly tools for exercise, health, geospatial, finance, and education
 
 ---
 
-## 🚀 Mission
+## 🚀 Current Mission
 
 To create accessible apps and tools that empower people to:
 - Improve health and exercise habits
@@ -40,14 +40,15 @@ To create accessible apps and tools that empower people to:
 
 ## 🎓 Credentials
 
-- **PhD, Neuro-Cognitive Kinesiology**  
+- **PhD, Kinesiology**
+  (specialism in neuro-cognitive and bio-behavioral outcomes) 
   University of Illinois, Urbana-Champaign
 
 ---
 
 ## 🌎 Current Role
 
-**Data Manager**  
+**Senior Research Specialist**  
 Gateway to Global Aging Project  
 Environmental Exposome Team  
 University of Michigan
